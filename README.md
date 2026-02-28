@@ -1,15 +1,31 @@
-![Libertad VZLA](/public/logo-500.png)
+<div align="center">
 
-# Libertad VZLA: Full-Stack News Platform
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Libertad%20VZLA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20News%20Platform%20%7C%20Journalism%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
 
-[🇪🇸 Español](README.es.md) | [🇵🇹 Português](README.pt.md)
-
-<p align="center">
+<!-- BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Type-Platform-blueviolet?style=for-the-badge" alt="Type: Platform"/>
   <img src="https://img.shields.io/badge/Next.js-14+-black?style=for-the-badge&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-Strict-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Supabase-Database-green?style=for-the-badge&logo=supabase" alt="Supabase" />
   <img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
 </p>
+
+<!-- LANGUAGE SWITCHER -->
+<p>
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Selected-blue?style=flat-square" alt="English"/></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-Available-lightgrey?style=flat-square" alt="Español"/></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/🇧🇷_Português-Available-lightgrey?style=flat-square" alt="Português"/></a>
+</p>
+
+</div>
+
+---
+
+**A high-performance journalism content management and news distribution system engineered with strict SSR, Server Actions, and a decoupled architecture.**
+
+---
 
 ## 🏛️ Project Abstract
 
@@ -102,3 +118,13 @@ This repository enforces strict engineering standards:
 ## 📄 License & Contributing
 
 This project is proprietary. Please refer to `.agent/rules/PROTOCOL_ZERO.md` for internal architectural guidelines.
+
+---
+
+<div align="center">
+
+_Architected by **Luis Sambrano**_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
+
+</div>
